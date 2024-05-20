@@ -1,0 +1,13 @@
+. Install nodejs
+. node --version , npm -version							was not working so ran below command first.
+. npx create-react-app app-name(open cmd where you want to create the project.)(npm install -g npm)
+. npm start(inside the proj.)
+
+.package.json is like pom.xml - dependies written in it.
+. react can be used to create both web and native applications.react-dom for web and react-native for mobile.
+. jsx write html in js file.
+. class and function components. component name should be in capitals. App is the parent component.
+. Babel coverts jsx code to js code
+. Component has -> view(jsx or js), logic(js), styling(css), state(internal data source), props(pass data).
+. Constructor name constructor. bind mthd in const. or use arrow func. in the mthd to not use bind.
+. DOM, Virtual DOM
